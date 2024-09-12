@@ -1,7 +1,7 @@
 import { batch, Component, createSignal, For } from "solid-js";
 import { Contact } from "../contact/Contact";
 import { AddConversationButton } from "../add-conversation-button/AddConversationButton";
-import { DeleteConversationButton } from "../delete-conversation-button.tsx/DeleteConversationButton";
+import { DeleteConversationButton } from "../delete-conversation-button/DeleteConversationButton";
 import { dndzone } from "solid-dnd-directive";
 import styles from "./Sidebar.module.css"
 

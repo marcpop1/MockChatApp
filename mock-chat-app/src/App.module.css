@@ -4,6 +4,7 @@
 
 .sidebar {
   margin-left: 5%;
+  max-width: 20vw;
 }
 
 @media (max-width: 766px) {
